@@ -1,0 +1,6 @@
+{
+  "name": "user-action-contracts",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2"
+  }
+}
